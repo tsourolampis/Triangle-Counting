@@ -8,7 +8,7 @@ The code counts triangles exactly, code used for exact counting in the paper "Ef
 - Toy example  
 
 time ./triExact < toy_compressed.txt 
-# of triangles encountered: 20666503
+\# of triangles encountered: 20666503
 
 real	0m0.961s
 user	0m0.834s
